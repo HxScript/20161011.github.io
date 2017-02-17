@@ -7,5 +7,5 @@
 
 # 2017.2.17
  
-** All will pass.<br>
-** And I bury you here.
+ All will pass.<br>
+ And I bury you here.
