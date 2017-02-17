@@ -1,5 +1,5 @@
 # 20161011.github.io
-##All about you.
+**All about you.**
 
 
 
@@ -7,5 +7,5 @@
 
 # 2017.2.17
  
-## All will pass.
-## And I bury you here.
+** All will pass.**<br>
+** And I bury you here.**
